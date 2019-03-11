@@ -22,6 +22,7 @@ alfred核心是workflow，截几张图体验一下
 ![4.png][4]
 
 #### 1.5 整合phpstorm，同样的改改代码也能整合Goland,IntelliJ
+TIP:需要注意的是，该workflow导入之后，需要定位到所在的finder里面config.json里面的路径改成你自己的
 
 ![5.png][5]
 
