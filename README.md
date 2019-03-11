@@ -3,6 +3,17 @@
 ## 1. alfred mac第一神器
 https://xclient.info/s/alfred.html
 
+### alfred三大功能，主要是
+#### 1. workflow (核心)
+
+#### 2. 剪贴版记录（图片，文字都支持）
+![7.png][7]
+
+
+#### 3. 代码片段 (可以自定义分类，常用代码进行整理，提高开发)
+![8.png][8]
+
+
 alfred核心是workflow，截几张图体验一下
 
 #### 1.1 整合有道，查英语单词
@@ -45,3 +56,5 @@ https://xclient.info/s/dash.html
   [4]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/4.png
   [5]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/5.png
   [6]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/6.png
+  [7]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/7.png
+  [8]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/8.png
