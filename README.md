@@ -13,7 +13,7 @@ alfred核心是workflow，截几张图体验一下
 
 ![2.png][2]
 
-#### 1.3 整合dash，js,golang,php,java,android,object-c,swift尽在我手
+#### 1.3 整合dash，js,golang,php,java,android,object-c,swift文档尽在我手
 
 ![3.png][3]
 
