@@ -38,9 +38,9 @@ https://www.iterm2.com/
 https://xclient.info/s/dash.html
 
 
-  [1]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/1.png
-  [2]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/2.png
-  [3]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/3.png
-  [4]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/4.png
-  [5]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/5.png
-  [6]: https://raw.githubusercontent.com/jackysong/alfred_workflow/screenshots/6.png
+  [1]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/1.png
+  [2]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/2.png
+  [3]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/3.png
+  [4]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/4.png
+  [5]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/5.png
+  [6]: https://raw.githubusercontent.com/jackysong/alfred_workflow/master/screenshots/6.png
